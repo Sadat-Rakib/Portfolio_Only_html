@@ -8,3 +8,8 @@ As a passionate developer, showcasing various projects on different technologies
 ✅ Ability to structure clean and maintainable HTML
 ✅ Understanding of semantic HTML for accessibility & SEO
 ✅ Knowledge of layout design and UI structuring
+
+sample images of the html file: -
+![image](https://github.com/user-attachments/assets/e1cbb27d-02b4-404f-9c21-dede91bffe3d)
+![image](https://github.com/user-attachments/assets/24c3ca99-1620-46c5-bba1-84b7f7bca52a)
+
